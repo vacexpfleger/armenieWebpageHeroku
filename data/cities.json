@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Gyumri",
+        "description":"Gyumri je arménské město, nachází se na krajním západě Arménie, vedle hranice s Tureckem, na Širakské rovině. Je to metropole provincie Širak a zároveň největší město této severozápadní provincie. Nachází se 126 km od hlavního arménského města Jerevanu a s 116 800 obyvateli je druhým největším městem v Arménii.",
+        "photo":"gyumri.jpg"
+    },
+    {
+        "name":"Vanadzor",
+        "description":"Vanadzor je třetí největší město Arménie, žije v něm 104 800 obyvatel. Leží 128 km severně od Jerevanu a je hlavním městem provincie Lorri. Město vzniklo v roce 1752 na místě sídliště z doby bronzové. Větší rozvoj se datuje od výstavby železnice koncem 19. století V roce 1918 se konala bitva u Karakilisy, v níž vojska nezávislé Arménie odrazila tureckou invazi.",
+        "photo":"vanadzor.jpg"
+    },
+    {
+        "name":"Abovyan",
+        "description":"Abovyan je město v Arménii. K roku 2011 v něm žilo přes třiačtyřicet tisíc obyvatel. Současné jméno nese obec až od roku 1961, kdy byla přejmenována k poctě arménského spisovatele Chačatura Abovjana. Předtím se obec jmenovala Elar a vykopávky zde doložily osídlení již v době bronzové.",
+        "photo":"abovyan.jpg"
+    },
+    {
+        "name":"Vagharshapat",
+        "description":"Vagharshapat je město nedaleko arménského hlavního města Jerevanu v provincii Armavir, sídlo katholikose, hlavy Arménské apoštolské církve. Významné chrámy tohoto svatého města se od roku 2000 nachází na Seznamu světového dědictví UNESCO.",
+        "photo":"vagharshapat.jpg"
+    },
+    {
+        "name":"Kapan",
+        "description":"Kapan je hlavní město arménské provincie Sjunik. Město se nachází 316 km od Jerevanu. Kapan je největší město v jižní Arménii. Leží na východě provincie Sjunikh v údolí Voghji na svazích pohoří Zangezur. S populací okolo 35 000 se Kapan snaží vyrovnat s následky horno-karabašské války a postsovětskou společností. Nicméně jsou zde známky růstu a vývoje.",
+        "photo":"kapan.jpg"
+    }
+]

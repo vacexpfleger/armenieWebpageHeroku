@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Aragacotn",
+        "description":"Aragacotn je provincie v Arménii. Nachází se na západě země. Na západě hraničí s Tureckem. Její hlavní město je Aštarak, má rozlohu 2 753 km² a v roce 2002 měla 126 278 obyvatel. Na její hranici s provincií Širak se nachází nejvyšší hora Arménie Aragac.",
+        "photo":"aragacotn.jpg"
+    },
+    {
+        "name":"Ararat",
+        "description":"Ararat je provincie v Arménii. Nachází se na jihu země jižně od hlavního města Jerevanu. Na jihu a západě hraničí s Tureckem. Její hlavní město je Artašat, má rozlohu 2 090 km² a v roce 2011 měla 260 367 obyvatel.",
+        "photo":"ararat.jpg"
+    },
+    {
+        "name":"Armavir",
+        "description":"Provincie Armavir (arménsky Արմավիրի մարզ – Armaviri marz) je jednou z arménských provincií. Jejím hlavním městem je Armavir. Její rozloha je 1242 čtverečních kilometrů a k roku 2011 v ní žilo přes 256 tisíc obyvatel.",
+        "photo":"armavir.jpg"
+    },
+    {
+        "name":"Gegharkunik",
+        "description":"Gegharkunik je provincie v Arménii. Nachází se na východě země. Na východě hraničí s Ázerbájdžánem. Její hlavní město je Gavar, má rozlohu 5 348 km² a v roce 2002 měla 215 371 obyvatel. Jde o rozlohou největší provincii Arménie. Na jejím území se nachází největší jezero Arménie Sevan.",
+        "photo":"gegharkunik.jpg"
+    },
+    {
+        "name":"Kotajk",
+        "description":"Kotajk je provincie v Arménii. Nachází se v centrální části země. Hlavní město provincie je Hrazdan. Je to domov často navštěvovaných destinací Garni a Geghard a známého lyžařského resortu Cachkadzor.",
+        "photo":"kotajk.jpg"
+    },
+    {
+        "name":"Lorri",
+        "description":"Lorri je jedna z deseti provincií (marzer), na které se od roku 1995 dělí republika Arménie. Má rozlohu 3799 km² a žije v ní okolo 230 000 obyvatel, hlavním městem je Vanadzor (do roku 1993 Kirovakan). Tato správní jednotka leží v severní části země a sousedí s Gruzií a provinciemi Širak, Aragac, Kotajk a Tavuš. Tvoří ji sedm měst a padesát obcí, většinu obyvatel tvoří Arméni, žijí zde také ruští molokáni, Jezídové a pontští Řekové.",
+        "photo":"lorri.jpg"
+    },
+    {
+        "name":"Širak",
+        "description":"Provincie Širak je jednou z provincií Arménie. Leží na severozápadě země a hraničí s Gruzií a Tureckem. Má rozlohu 2681 čtverečních kilometrů, k roku 2011 v ní žilo přes 233 tisíc obyvatel a jejím hlavním městem je Gjumri.",
+        "photo":"sirak.jpg"
+    },
+    {
+        "name":"Sjunik",
+        "description":"Sjunik je provincie na jihu Arménie. Na východě a západě hraničí s Ázerbájdžánem, na jihu s Íránem a na severu s arménskou provincií Vajoc Dzor. Její hlavní město je Kapan, dalšími velkými městy jsou Goris, Meghri, Sisian, Kadžaran, Agarak a Dastakert. Provinice má rozlohu 4 506 km², což je 15 % území celé Arménie. V roce 2011 zde žilo 141 771 obyvatel, což je 4,7 % obyvatel Arménie. Staré pojmenování této oblasti je Zangezur.",
+        "photo":"sjunik.jpg"
+    },
+    {
+        "name":"Tavuš",
+        "description":"Tavuš je provincie v Arménii. Nachází se na severozápadě země. Na severu hraničí s Gruzií a na východě s Ázerbájdžánem. Její hlavní město je Idževan, má rozlohu 2 704 km² a v roce 2002 měla 121 963 obyvatel.",
+        "photo":"tavus.jpg"
+    },
+    {
+        "name":"Vajoc Dzor",
+        "description":"Vajoc Dzor je provincie v Arménii. Nachází se na jihozápadě země, mezi Nachičevanskou autonomní republikou Ázerbájdžánu a územími Ázerbájdžánu, které fakticky kontroluje mezinárodně neuznaná arménská Náhorněkarabašská republika. Jde o provincii Arménie s nejřidším osídlením.",
+        "photo":"vajoc-dzor.jpg"
+    },
+    {
+        "name":"Jerevan",
+        "description":"Jerevan je hlavní město Arménie. Nachází se 12 km od hranice s Tureckem. Má přibližně 1,08 milionu obyvatel. Město bylo vybudováno na místě, kde se od roku 783 př. n. l. nachází pevnost Erebuni. Díky strategické pozici se zde setkávaly staré obchodní cesty z Ruska a Anatolie do Persie. Hlavní růst města začal na začátku 20. století. Pod sovětskou nadvládou byla vybudována univerzita, školy, akademie věd, divadlo, hudební síně a muzea.",
+        "photo":"jerevan.jpg"
+    }
+]

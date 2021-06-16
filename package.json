@@ -1,0 +1,24 @@
+{
+  "name": "armeniewebpage",
+  "version": "1.2.0",
+  "description": "* a working website, not much jQuery",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacexpfleger/armenieWebpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vacexpfleger/armenieWebpage/issues"
+  },
+  "homepage": "https://github.com/vacexpfleger/armenieWebpage#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
